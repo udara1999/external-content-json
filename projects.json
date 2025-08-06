@@ -1,0 +1,11 @@
+[
+  {
+    "id": "p1",
+    "title": "Sample Project Using Provided Image",
+    "description": "This project uses the sample image you provided via Google Drive.",
+    "image": "https://drive.google.com/uc?export=download&id=1Bl56w7UKeKaJRkz3fJRVx0ac4lIIiGWn",
+    "tags": ["Sample", "Demo"],
+    "liveDemo": "",
+    "github": ""
+  }
+]

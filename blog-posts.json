@@ -5,6 +5,14 @@
     "date": "May 8, 2025",
     "summary": "Let’s be real: frontend dev isn’t what it was even 2 years ago.\n\nWe’re not just pushing pixels or wiring up buttons anymore — we’re co-building with AI tools that feel more like teammates than tools.\n\nHere’s how AI is changing the way we code — and think.",
     "thumbnail": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*Xii8GDmQJzd27c-85vO5NA.png",
-    "url": "https://udara-prabath.medium.com/how-ai-is-reshaping-frontend-development-workflows-c89f1cbe84af"
+    "url": "https://udara-prabath.medium.com/how-ai-is-reshaping-frontend-development-workflows-c89f1cbe84af",
+    "featured": true,
+    "tags": ["Front End Development",
+      "AI",
+      "Web Development",
+      "Future Of Work",
+      "Developer Tools"],
+    "read_time": 3,
+    "platform": "Medium"
   }
 ]

@@ -1,11 +1,115 @@
 [
   {
-    "id": "p1",
-    "title": "Sample Project Using Provided Image",
-    "description": "This project uses the sample image you provided via Google Drive.",
-    "image": "https://drive.google.com/uc?export=download&id=1Bl56w7UKeKaJRkz3fJRVx0ac4lIIiGWn",
-    "tags": ["Sample", "Demo"],
-    "liveDemo": "",
-    "github": ""
+    "id": "nenasa",
+    "title": "Nenasa Android Mobile Application",
+    "description": "Educational app for students in Sri Lanka.",
+    "image_url": "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/nenasa.png",
+    "live_url": "https://play.google.com/store/apps/details?id=lk.dialog.nenasa&hl=en&gl=US",
+    "tech_stack": ["Android", "Java"],
+    "role": "Developer",
+    "timeline": "2024",
+    "status": "completed",
+    "featured": false
+  },
+  {
+    "id": "bcon",
+    "title": "Bcon Taxi Mobile Application",
+    "description": "Ride hailing platform for taxi services.",
+    "image_url": "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/bcon.png",
+    "tech_stack": ["Flutter", "Firebase"],
+    "role": "Developer",
+    "timeline": "2024",
+    "status": "completed",
+    "featured": false
+  },
+  {
+    "id": "lion-tours",
+    "title": "Lion Tours Mobile Application",
+    "description": "Travel booking app for Sri Lankan tours.",
+    "image_url": "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/lion.png",
+    "tech_stack": ["React Native", "Node.js"],
+    "role": "Developer",
+    "timeline": "2024",
+    "status": "completed",
+    "featured": false
+  },
+  {
+    "id": "pointme",
+    "title": "PointMe Android Mobile Application",
+    "description": "Rewards and deals app.",
+    "image_url": "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/pointme.png",
+    "live_url": "https://play.google.com/store/apps/details?id=com.ceyentra.pointmesl&hl=en&gl=US",
+    "tech_stack": ["Kotlin", "Firebase"],
+    "role": "Developer",
+    "timeline": "2024",
+    "status": "completed",
+    "featured": false
+  },
+  {
+    "id": "poson2020",
+    "title": "Dialog Poson 2020",
+    "description": "Cultural event media coverage project.",
+    "image_url": "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/p6.png",
+    "tech_stack": ["HTML", "CSS", "JavaScript"],
+    "role": "Frontend",
+    "timeline": "2020",
+    "status": "completed",
+    "featured": false
+  },
+  {
+    "id": "vesak2020",
+    "title": "Light Up Sri Lanka Vesak Project",
+    "description": "Virtual Vesak celebration campaign.",
+    "image_url": "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/p7.png",
+    "tech_stack": ["HTML", "JavaScript"],
+    "role": "Frontend",
+    "timeline": "2020",
+    "status": "completed",
+    "featured": false
+  },
+  {
+    "id": "edumo",
+    "title": "Edumo Web Application",
+    "description": "Online education platform.",
+    "image_url": "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/p8.png",
+    "tech_stack": ["React", "Node.js", "MongoDB"],
+    "role": "Fullstack",
+    "timeline": "2023",
+    "status": "completed",
+    "featured": false
+  },
+  {
+    "id": "pinmap",
+    "title": "Pinmap Android Mobile Application",
+    "description": "Location-based task management app.",
+    "image_url": "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/p9.png",
+    "tech_stack": ["Android", "Kotlin"],
+    "role": "Developer",
+    "timeline": "2024",
+    "status": "completed",
+    "featured": false
+  },
+  {
+    "id": "edulab",
+    "title": "Edulab Web Application",
+    "description": "Learning management platform.",
+    "image_url": "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/p11.png",
+    "live_url": "https://edulab.lk/",
+    "tech_stack": ["Vue.js", "Laravel"],
+    "role": "Fullstack",
+    "timeline": "2024",
+    "status": "completed",
+    "featured": false
+  },
+  {
+    "id": "samsung-preorder",
+    "title": "Samsung Pre-order Site",
+    "description": "Product preorder platform for Samsung devices.",
+    "image_url": "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/p10.png",
+    "tech_stack": ["PHP", "MySQL"],
+    "role": "Developer",
+    "timeline": "2023",
+    "status": "completed",
+    "featured": false
   }
 ]

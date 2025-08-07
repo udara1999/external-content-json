@@ -1,10 +1,10 @@
 [
   {
     "id": "b1",
-    "title": "Blog Post Featuring the Shared Image",
-    "date": "2025-08-06",
-    "summary": "A sample blog post showcasing how to include an external image hosted on Google Drive.",
-    "thumbnail": "https://drive.google.com/uc?export=download&id=1Bl56w7UKeKaJRkz3fJRVx0ac4lIIiGWn",
-    "slug": "sample-post-using-drive-image"
+    "title": "How AI is Reshaping Frontend Development Workflows",
+    "date": "May 8, 2025",
+    "summary": "Let’s be real: frontend dev isn’t what it was even 2 years ago.\n\nWe’re not just pushing pixels or wiring up buttons anymore — we’re co-building with AI tools that feel more like teammates than tools.\n\nHere’s how AI is changing the way we code — and think.",
+    "thumbnail": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*Xii8GDmQJzd27c-85vO5NA.png",
+    "url": "https://udara-prabath.medium.com/how-ai-is-reshaping-frontend-development-workflows-c89f1cbe84af"
   }
 ]

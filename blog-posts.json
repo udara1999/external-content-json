@@ -14,5 +14,61 @@
       "Developer Tools"],
     "read_time": 3,
     "platform": "Medium"
+  },
+  {
+    "id": "b2",
+    "title": "Best Practices for Organizing Imports in Your React Codebase",
+    "date": "Mar 9, 2023",
+    "summary": "Organizing imports in your React codebase is an essential practice that can greatly improve the readability and maintainability of your code. Imports are used to bring in external dependencies, components, and utilities into your code, and having a disorganized or cluttered import section can make it difficult to understand the structure of your code and find specific imports.",
+    "thumbnail": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*7a9SD4gQRlyWnPdcE3kr9A.png",
+    "url": "https://udara-prabath.medium.com/best-practices-for-organizing-imports-in-your-react-codebase-cb2d9e35fa9c",
+    "featured": true,
+    "tags": ["React",
+      "Best Practices",
+      "Eslint"],
+    "read_time": 4,
+    "platform": "Medium"
+  },
+  {
+    "id": "b3",
+    "title": "Mastering Functinal Components in React: A Comprehensive Guide",
+    "date": "Mar 4, 2023",
+    "summary": "React is a popular front-end library for building user interfaces. One of its key features is its ability to use functional components. In this article, we’ll explore what functional components are, how they differ from class components, and some examples of how to use them.",
+    "thumbnail": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*gDiqXHXKfkVoV75JR48pMA.png",
+    "url": "https://udara-prabath.medium.com/mastering-functinal-components-in-react-a-comprehensive-guide-3720a075fa24",
+    "featured": true,
+    "tags": ["React",
+      "Best Practices",
+      "Eslint"],
+    "read_time": 6,
+    "platform": "Medium"
+  },
+  {
+    "id": "b4",
+    "title": "React.js in 2023: The Latest Trends You Need to Know",
+    "date": "Feb 15, 2023",
+    "summary": "React.js has become one of the most popular and widely used JavaScript libraries for building user interfaces. With the ever-changing technology landscape, it’s important to stay up-to-date with the latest trends in React.js to create better, faster, and more efficient web applications. In this article, we will look at some of the latest trends in React.js that you need to know in 2023",
+    "thumbnail": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*UjWL4ZN_pI94E4We7WKgQw.jpeg",
+    "url": "https://udara-prabath.medium.com/react-js-in-2023-the-latest-trends-you-need-to-know-4c8a57dfbb55",
+    "featured": true,
+    "tags": ["React",
+      "Best Practices",
+      "Eslint"],
+    "read_time": 6,
+    "platform": "Medium"
+  },
+  {
+    "id": "b5",
+    "title": "5 Reasons to choose React over Angular",
+    "date": "Jan 31, 2023",
+    "summary": "With the advancement of web application development in IT industry many technologies, libraries and frameworks introduced to the world. React and Angular are the main and most popular library and framework among them. Let’s focus on the following points to get an idea of \u200B\u200Bwhy React should be your choice that can be quickly, easily learned and mastered, here are some tips.",
+    "thumbnail": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*4bdogy47dtRse9APEvyZbQ.png",
+    "url": "https://udara-prabath.medium.com/5-reasons-to-choose-react-over-angular-9c89ecc65ad5",
+    "featured": true,
+    "tags": ["React",
+      "Best Practices",
+      "Eslint"],
+    "read_time": 6,
+    "platform": "Medium"
   }
 ]

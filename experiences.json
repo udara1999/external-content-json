@@ -1,0 +1,55 @@
+[
+  {
+    "role": "Senior Software Engineer",
+    "company": "IFS",
+    "duration": "Dec 2023 - Present",
+    "responsibilities": [
+      "Collaborate with cross-functional teams including product managers, designers, and QA to deliver high-quality software products",
+      "Use agile methodology to plan, track, and deliver projects on time",
+      "Ensure that software development best practices and standards are followed",
+      "Work on cloud-based applications using AWS and React.js"
+    ]
+  },
+  {
+    "role": "Senior Software Engineer",
+    "company": "Softvil Technologies",
+    "duration": "Dec 2022 - Dec 2023",
+    "responsibilities": [
+      "Collaborated with cross-functional teams to build and deliver quality software products",
+      "Applied agile practices to manage project timelines and deliverables",
+      "Ensured adherence to industry coding standards and quality benchmarks",
+      "Gained this opportunity through professional connections on LinkedIn"
+    ]
+  },
+  {
+    "role": "Senior Software Engineer",
+    "company": "Ceyentra Technologies",
+    "duration": "Sep 2022 - Dec 2022",
+    "responsibilities": [
+      "Identified, prioritized, and executed tasks in the software development life cycle",
+      "Developed tools and applications by writing clean, efficient code",
+      "Worked with internal teams and vendors to improve existing systems",
+      "Ensured software remained up-to-date with latest technologies"
+    ]
+  },
+  {
+    "role": "Software Engineer",
+    "company": "Ceyentra Technologies",
+    "duration": "Jun 2019 - Sep 2022",
+    "responsibilities": [
+      "Led frontend and mobile app development using React, React Native, and Android",
+      "Designed, developed, and deployed client-side applications",
+      "Maintained and supported ongoing live projects by communicating with clients",
+      "Collaborated with external technical teams for troubleshooting and improvements"
+    ]
+  },
+  {
+    "role": "Associate Software Engineer",
+    "company": "Ceyentra Technologies",
+    "duration": "Jan 2019 - Jun 2019",
+    "responsibilities": [
+      "Trained to implement software systems following industry standards",
+      "Contributed to the development of web and mobile applications"
+    ]
+  }
+]

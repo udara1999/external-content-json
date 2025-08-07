@@ -28,6 +28,20 @@
     "featured": false
   },
   {
+    "id": "hyundaielevator",
+    "title": "Hyundai Elevator",
+    "description": "Hyundai Elevator Malaysia delivers world-class vertical transportation solutions tailored to the nation's growing infrastructure. With over 2,000 units of lifts, escalators & travelators installations nationwide, we combine global expertise with local excellence to provide innovative, safe, and energy-efficient elevators and escalators.",
+    "image_url": [
+      "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/he1.png",
+      "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/he2.png"
+    ],
+    "tech_stack": ["NextJs"],
+    "role": "Freelancer",
+    "timeline": "2024",
+    "featured": false,
+    "live_url": "https://hyundaielevator.my/"
+  },
+  {
     "id": "insigital",
     "title": "Insigital Banking",
     "description": "Customized web application solution for Wekada East Sanata Society to manage their field collections, customers, welfare and HR related details.",

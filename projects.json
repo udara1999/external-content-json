@@ -1,114 +1,217 @@
 [
   {
-    "id": "nenasa",
-    "title": "Nenasa Android Mobile Application",
-    "description": "Educational app for students in Sri Lanka.",
-    "image_url": "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/nenasa.png",
-    "live_url": "https://play.google.com/store/apps/details?id=lk.dialog.nenasa&hl=en&gl=US",
-    "tech_stack": ["Android", "Java"],
-    "role": "Developer",
+    "id": "dslandsale",
+    "title": "Down South Pro Lands",
+    "description": "Sri Lanka–based real estate listing platform, primarily offering land for sale in the southern coastal regions. It includes features to browse, compare, and contact the team for support.",
+    "image_url": [
+      "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/ds1.png",
+      "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/ds2.png",
+      "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/ds3.png"
+    ],
+    "tech_stack": ["Word Press"],
+    "live_url": "https://dslandsale.online/",
+    "role": "Freelancer",
+    "timeline": "2025",
+    "featured": false
+  },
+  {
+    "id": "marketing",
+    "title": "Workwave Marketing",
+    "description": "WorkWave Marketing is marketing solutions offered by WorkWave, a company specializing in field service management software. These solutions help businesses in the field service industry attract new customers, manage marketing campaigns, and streamline their sales processes. ",
+    "image_url": [
+      "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/wwm.png"
+    ],
+    "tech_stack": ["React", "Spring Boot"],
+    "live_url": "https://marketing.workwave.com/",
+    "role": "Senior Frontend Developer",
     "timeline": "2024",
-    "status": "completed",
     "featured": false
   },
   {
-    "id": "bcon",
-    "title": "Bcon Taxi Mobile Application",
-    "description": "Ride hailing platform for taxi services.",
-    "image_url": "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/bcon.png",
-    "tech_stack": ["Flutter", "Firebase"],
-    "role": "Developer",
+    "id": "insigital",
+    "title": "Insigital Banking",
+    "description": "Customized web application solution for Wekada East Sanata Society to manage their field collections, customers, welfare and HR related details.",
+    "image_url": [
+      "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/ib1.png",
+      "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/ib2.png",
+      "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/ib3.png",
+      "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/ib4.png"
+    ],
+    "tech_stack": ["React", "Spring Boot"],
+    "role": "Owner",
     "timeline": "2024",
-    "status": "completed",
     "featured": false
   },
   {
-    "id": "lion-tours",
-    "title": "Lion Tours Mobile Application",
-    "description": "Travel booking app for Sri Lankan tours.",
-    "image_url": "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/lion.png",
-    "tech_stack": ["React Native", "Node.js"],
-    "role": "Developer",
-    "timeline": "2024",
-    "status": "completed",
-    "featured": false
-  },
-  {
-    "id": "pointme",
-    "title": "PointMe Android Mobile Application",
-    "description": "Rewards and deals app.",
-    "image_url": "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/pointme.png",
-    "live_url": "https://play.google.com/store/apps/details?id=com.ceyentra.pointmesl&hl=en&gl=US",
-    "tech_stack": ["Kotlin", "Firebase"],
-    "role": "Developer",
-    "timeline": "2024",
-    "status": "completed",
-    "featured": false
-  },
-  {
-    "id": "poson2020",
-    "title": "Dialog Poson 2020",
-    "description": "Cultural event media coverage project.",
-    "image_url": "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/p6.png",
-    "tech_stack": ["HTML", "CSS", "JavaScript"],
-    "role": "Frontend",
-    "timeline": "2020",
-    "status": "completed",
-    "featured": false
-  },
-  {
-    "id": "vesak2020",
-    "title": "Light Up Sri Lanka Vesak Project",
-    "description": "Virtual Vesak celebration campaign.",
-    "image_url": "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/p7.png",
-    "tech_stack": ["HTML", "JavaScript"],
-    "role": "Frontend",
-    "timeline": "2020",
-    "status": "completed",
-    "featured": false
-  },
-  {
-    "id": "edumo",
-    "title": "Edumo Web Application",
-    "description": "Online education platform.",
-    "image_url": "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/p8.png",
-    "tech_stack": ["React", "Node.js", "MongoDB"],
-    "role": "Fullstack",
+    "id": "avatarin",
+    "title": "Avatarin",
+    "description": "Avatarin’s long-term mission is aligned with a concept called \"Society 5.0\"—a Japanese government initiative to build a highly digitized, human-centered society. Avatarin wants to help remove physical boundaries in human communication and collaboration.",
+    "image_url": [
+      "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/avt1.png",
+      "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/avt2.png"
+    ],
+    "tech_stack": ["React", "Spring Boot"],
+    "live_url": "https://avatarin.com/",
+    "role": "Senior Frontend Developer",
     "timeline": "2023",
     "status": "completed",
     "featured": false
   },
   {
-    "id": "pinmap",
-    "title": "Pinmap Android Mobile Application",
-    "description": "Location-based task management app.",
-    "image_url": "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/p9.png",
-    "tech_stack": ["Android", "Kotlin"],
-    "role": "Developer",
-    "timeline": "2024",
+    "id": "uniCloud360",
+    "title": "UniCloud360",
+    "description": "UniCloud360 is a comprehensive cloud-based student management system that encompasses the entire student lifecycle, from initial inquiry to graduation. This robust system caters to the diverse needs of both staff and students, offering a specialized workflow tailored to private higher education institutions. Its architecture adheres to a modular framework, allowing customization and scalability to align with clients' specific technology requirements and information management strategies for seamless digital transformation.",
+    "image_url": [
+      "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/uni1.png",
+      "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/uni2.png",
+      "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/uni3.png"
+    ],
+    "tech_stack": ["React", "Spring Boot"],
+    "live_url": "https://unicloud360.com/",
+    "role": "Team Lead",
+    "timeline": "2022",
     "status": "completed",
     "featured": false
   },
   {
+    "id": "eTenders.lk",
+    "title": "eTenders.lk",
+    "description": "\"eTenders.lk\" is Sri Lanka's most comprehensive and accurate tender alert service - if there's a tender out there, then we surely have it on our platform. Our profiling team and powerful tender matching system ensure that you get the tenders you want and the edge to win. With many years in the etendering industry in Sri Lanka, we are confident that www.eTenders.lk is tailor made to fulfill your needs.eTenders.lk started its journey on the 26th of March 2012 was the first Sri Lankan Tender Portal. Currently we service more than 400 customers and have published over 50,000 Sri Lankan Tenders",
+    "image_url": [
+      "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/et1.png",
+      "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/et2.png"
+    ],
+    "tech_stack": ["React", "Spring Boot"],
+    "live_url": "https://eTenders.lk/",
+    "role": "Team Lead",
+    "timeline": "2022",
+    "status": "completed",
+    "featured": false
+  },
+  {
+    "id": "poson2020",
+    "title": "Dialog නේත්\u200Dරාභිවන්දනා 2020/2021",
+    "description": "\"Dialog නේත්\u200Dරාභිවන්දනා 2020/2021\" featured an interactive 3D virtual Vesak lantern and pandal experience that everyone could actively engage with. It included a digital Vesak lantern competition, a platform to share Vesak greeting cards (e-Vesak) with loved ones, and a live streaming link to “Siri Dalada Waruna”, a program broadcast via the Sri Dalada Maligawa YouTube channel. The initiative also included the “Saddham Sithuvili” program, where monks recited the Dhammapada with meaningful interpretations, a pre-recorded devotional musical show, and free data benefits offered to Dialog customers.",
+    "image_url": [
+      "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/p6.png",
+      "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/dp1.jpg"
+    ],
+    "tech_stack": ["HTML", "CSS", "JavaScript"],
+    "role": "FullStack Devloper",
+    "timeline": "2021",
+    "status": "completed",
+    "featured": false,
+    "live_url": "https://www.facebook.com/story.php?story_fbid=10158164497216203&id=55826981202&m_entstream_source=timeline&_rdr"
+  },
+  {
     "id": "edulab",
     "title": "Edulab Web Application",
-    "description": "Learning management platform.",
-    "image_url": "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/p11.png",
-    "live_url": "https://edulab.lk/",
+    "description": "EduLab is a learning management system that allows the teachers or educational institutes to create digital classes and workshops where they can book a LMS + Website two in one solution to keep the learning and teaching process streamlined and efficient. Our tools are providing unique opportunities for the teachers and educational institutes to engage the students in various activities and give a new dimension for the interaction and efficient learning.",
+    "image_url": [
+      "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/p11.png",
+      "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/edulab1.webp",
+      "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/edulab2.webp"
+    ],
+    "live_url": "https://www.edulab.lk/",
     "tech_stack": ["Vue.js", "Laravel"],
-    "role": "Fullstack",
-    "timeline": "2024",
+    "role": "Team Lead",
+    "timeline": "2021",
     "status": "completed",
     "featured": false
   },
   {
     "id": "samsung-preorder",
     "title": "Samsung Pre-order Site",
-    "description": "Product preorder platform for Samsung devices.",
-    "image_url": "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/p10.png",
+    "description": "Samsung S20 preorder platform for Dialog.",
+    "image_url": ["https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/p10.png"],
     "tech_stack": ["PHP", "MySQL"],
-    "role": "Developer",
-    "timeline": "2023",
+    "role": "Frontend Developer",
+    "timeline": "2021",
+    "status": "completed",
+    "featured": false
+  },
+  {
+    "id": "vesak2020",
+    "title": "Light Up Sri Lanka Vesak Project",
+    "description": "Due to the situation caused by COVID-19, devotees were deeply saddened by their inability to celebrate the Vesak festival with the usual grandeur. As a response, Ceyenrta took the initiative to organize the “Light Up Sri Lanka Vesak Project”, providing a new, heart-touching digital experience that allowed people to participate safely from their homes through an innovative web platform.",
+    "image_url": ["https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/p7.png"],
+    "tech_stack": ["HTML", "JavaScript"],
+    "role": "FullStack Developer",
+    "timeline": "2020",
+    "status": "completed",
+    "featured": false
+  },
+  {
+    "id": "bcon",
+    "title": "Bcon Taxi Mobile Application",
+    "description": "BCON is a ridesharing app for fast, reliable rides in minutes—day or night. There’s no need to park or wait for a taxi or bus. With BCON, you just tap to request a ride, and it’s easy to pay with credit or cash in select cities.",
+    "image_url": [
+      "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/bcon1.jpg",
+      "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/bcon.png",
+      "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/bcon2.png"
+    ],
+    "tech_stack": ["React Native", "Spring Boot", "GMap Apis"],
+    "role": "Frontend Developer",
+    "timeline": "2020",
+    "status": "completed",
+    "featured": false,
+    "live_url": "https://apkpure.com/bcon-taxi-sri-lanka/lk.bcon.taxi.passenger"
+  },
+  {
+    "id": "bcon",
+    "title": "Bcon Driver",
+    "description": "Official Driver app for Bcon taxi mobile application",
+    "image_url": [
+      "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/bcondriver1.webp",
+      "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/bcondriver2.webp",
+      "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/bcon2.png"
+    ],
+    "tech_stack": ["React Native", "Spring Boot", "GMap Apis"],
+    "role": "Frontend Developer",
+    "timeline": "2020",
+    "status": "completed",
+    "featured": false,
+    "live_url": "https://apkpure.com/bcon-driver/lk.bcon.taxi.driver"
+  },
+  {
+    "id": "nenasa",
+    "title": "Nenasa Mobile Application",
+    "description": "Nenasa is an educational platform that enhances the learning experience, providing educational material in accordance with the Sri Lankan government schools’ syllabus.\n The app contains in-built graphical content, videos and resources Grade 1 to A level and includes all the subjects within the syllabus. Nenasa was developed in collaboration with the Ministry of Education to ensuring access and equal opportunity for a quality education for Sri Lankan students.",
+    "image_url": [
+      "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/nenasa-appscreen-2.png",
+      "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/nenasa-appscreen-1.png",
+      "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/nenasa-appscreen-7.png",
+      "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/nenasa.png"
+    ],
+    "github_url": "https://www.dialog.lk/nenasa-app",
+    "live_url": "https://apkpure.com/nenasa/lk.dialog.nenasa",
+    "tech_stack": ["Android", "Java", "IOS", "Windows"],
+    "role": "Frontend Developer",
+    "timeline": "2019",
+    "status": "completed",
+    "featured": false
+  },
+  {
+    "id": "pointme",
+    "title": "PointMe Android Mobile Application",
+    "description": "You can share your location with your family and with selected peoples.",
+    "image_url": ["https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/pointme.png"],
+    "tech_stack": ["Native Android", "Firebase", "GMap Apis"],
+    "role": "Frontend Developer",
+    "timeline": "2019",
+    "status": "completed",
+    "featured": false
+  },
+  {
+    "id": "luckyWheel",
+    "title": "Digital Spin the Wheel",
+    "description": "Fully customizable marketing solution offers as an interactive wheel game of luck. Digital marketing solutions for interactive user engagement",
+    "image_url": [
+      "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/luckyWheelBig.webp"
+    ],
+    "tech_stack": ["HTML", "JavaScript"],
+    "role": "Frontend Developer",
+    "timeline": "2019",
     "status": "completed",
     "featured": false
   }

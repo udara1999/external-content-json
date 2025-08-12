@@ -1,5 +1,23 @@
 [
   {
+    "id": "smartWealth",
+    "title": "Smart Wealth",
+    "description": "SmartWealth is a comprehensive personal finance dashboard built with React and TypeScript. It features multi-currency support, expense tracking, savings goals, asset management, and PWA capabilities. Users can monitor transactions, set financial goals, manage budgets, and access their financial data offline through a modern, responsive interface.",
+    "image_url": [
+      "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/sw1.png",
+      "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/sw2.png",
+      "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/sw3.png",
+      "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/sw4.png",
+      "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/sw5.png",
+      "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/sw6.png"
+    ],
+    "tech_stack": ["React"],
+    "live_url": "https://smartwealth.udaraprabath.online/",
+    "role": "Owner",
+    "timeline": "2025",
+    "featured": true
+  },
+  {
     "id": "dslandsale",
     "title": "Down South Pro Lands",
     "description": "Sri Lanka–based real estate listing platform, primarily offering land for sale in the southern coastal regions. It includes features to browse, compare, and contact the team for support.",
@@ -12,7 +30,7 @@
     "live_url": "https://dslandsale.online/",
     "role": "Freelancer",
     "timeline": "2025",
-    "featured": false
+    "featured": true
   },
   {
     "id": "marketing",
@@ -25,7 +43,7 @@
     "live_url": "https://marketing.workwave.com/",
     "role": "Senior Frontend Developer",
     "timeline": "2024",
-    "featured": false
+    "featured": true
   },
   {
     "id": "hyundaielevator",
@@ -69,7 +87,7 @@
     "role": "Senior Frontend Developer",
     "timeline": "2023",
     "status": "completed",
-    "featured": false
+    "featured": true
   },
   {
     "id": "uniCloud360",
@@ -85,7 +103,7 @@
     "role": "Team Lead",
     "timeline": "2022",
     "status": "completed",
-    "featured": false
+    "featured": true
   },
   {
     "id": "eTenders.lk",
@@ -100,7 +118,7 @@
     "role": "Team Lead",
     "timeline": "2022",
     "status": "completed",
-    "featured": false
+    "featured": true
   },
   {
     "id": "poson2020",

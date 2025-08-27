@@ -1,5 +1,23 @@
 [
   {
+    "id": "royalMoments",
+    "title": "Royal Moments",
+    "description": "Royal Moments Studio was born from a simple yet profound belief: every moment in life has a story worth telling. Founded in 2024 by Jeewantha Dilshan, their studio has grown from a passionate vision into an award-winning photography business that serves clients islandwide.",
+    "image_url": [
+      "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/rm1.png",
+      "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/rm2.png",
+      "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/rm3.png",
+      "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/rm4.png",
+      "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/rm5.png",
+      "https://raw.githubusercontent.com/udara1999/external-content-json/main/projects/rm6.png"
+    ],
+    "tech_stack": ["React"],
+    "live_url": "https://royalmomentsl.com/",
+    "role": "Owner",
+    "timeline": "2025",
+    "featured": true
+  },
+  {
     "id": "smartWealth",
     "title": "Smart Wealth",
     "description": "SmartWealth is a comprehensive personal finance dashboard built with React and TypeScript. It features multi-currency support, expense tracking, savings goals, asset management, and PWA capabilities. Users can monitor transactions, set financial goals, manage budgets, and access their financial data offline through a modern, responsive interface.",
